@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://3602020.xyz</id>
+    <title>bad&amp;boring Blog</title>
+    <updated>2020-03-25T11:25:17.565Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://3602020.xyz"/>
+    <link rel="self" href="https://3602020.xyz/atom.xml"/>
+    <subtitle>学习经验日志</subtitle>
+    <logo>https://3602020.xyz/images/avatar.png</logo>
+    <icon>https://3602020.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2020, bad&amp;boring Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://3602020.xyz/post/hello-world/</id>
+        <link href="https://3602020.xyz/post/hello-world/">
+        </link>
+        <updated>2020-03-25T11:06:22.000Z</updated>
+        <content type="html"><![CDATA[<p>First pages!<br>
+wait for update...</p>
+]]></content>
+    </entry>
+</feed>
