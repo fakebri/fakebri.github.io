@@ -1,2 +1,19 @@
-User-agent: *
+# Allow
+User-agent: Googlebot
 Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: Bingbot
+Disallow: 
+User-agent: baiduspider
+Disallow: 
+User-agent: sogou spider
+Disallow: 
+
+# Block
+User-agent: *
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
