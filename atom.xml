@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://3602020.xyz</id>
+    <id>https://fakebri.github.io</id>
     <title>bad&amp;boring Blog</title>
-    <updated>2020-08-04T17:35:56.733Z</updated>
+    <updated>2021-02-10T09:28:01.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://3602020.xyz"/>
-    <link rel="self" href="https://3602020.xyz/atom.xml"/>
+    <link rel="alternate" href="https://fakebri.github.io"/>
+    <link rel="self" href="https://fakebri.github.io/atom.xml"/>
     <subtitle>学习经验日志</subtitle>
-    <logo>https://3602020.xyz/images/avatar.png</logo>
-    <icon>https://3602020.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2020, bad&amp;boring Blog</rights>
+    <logo>https://fakebri.github.io/images/avatar.png</logo>
+    <icon>https://fakebri.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, bad&amp;boring Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
-        <id>https://3602020.xyz/post/hello-world/</id>
-        <link href="https://3602020.xyz/post/hello-world/">
+        <id>https://fakebri.github.io/post/hello-world/</id>
+        <link href="https://fakebri.github.io/post/hello-world/">
         </link>
         <updated>2020-03-25T11:06:22.000Z</updated>
         <content type="html"><![CDATA[<p>First pages!<br>
