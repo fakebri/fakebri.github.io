@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://3602020.xyz</id>
-    <title>bad&amp;boring Blog</title>
-    <updated>2021-02-10T09:49:36.997Z</updated>
+    <title>BRI Blog</title>
+    <updated>2021-02-10T09:55:38.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://3602020.xyz"/>
     <link rel="self" href="https://3602020.xyz/atom.xml"/>
     <subtitle>学习经验日志</subtitle>
     <logo>https://3602020.xyz/images/avatar.png</logo>
     <icon>https://3602020.xyz/favicon.ico</icon>
-    <rights>All rights reserved 2021, bad&amp;boring Blog</rights>
+    <rights>All rights reserved 2021, BRI Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://3602020.xyz/post/hello-world/</id>
